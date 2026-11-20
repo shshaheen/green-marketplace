@@ -1,0 +1,4 @@
+{
+  "FLAVOR": "prod",
+  "API_ORIGIN": "https://api.example.com"
+}
